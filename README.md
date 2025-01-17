@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software programming and embedded systems
 - 💞️ I’m looking to collaborate on different projects related to what I said above
 - 📫 How to reach me kirezilivia@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Her/She
 - ⚡ Fun fact: ...
 
 <!---
