@@ -16,7 +16,6 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320">
 
-```javascript
 const liviaKirezi = {
   name: "Livia Kirezi",
   role: "Software Engineer & Frontend Developer",
@@ -33,7 +32,6 @@ const liviaKirezi = {
   passion: "Creating Beautiful & Functional UIs",
   motto: "Code with purpose, design with passion ✨"
 };
-```
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -115,11 +113,10 @@ const liviaKirezi = {
 <br><br>
 
 ### 💭 Current Learning Journey
-```
+
 📚 Exploring: Blockchain Development & Web3
 🎯 Goal: Building decentralized applications
 🚀 Always open to innovative collaborations!
-```
 
 </div>
 
@@ -131,7 +128,7 @@ const liviaKirezi = {
 
 <div align="center">
 
-```yaml
+
 hobbies:
   - "🎨 UI/UX Design & Prototyping"
   - "🔐 Cybersecurity & Ethical Hacking"  
@@ -141,7 +138,6 @@ hobbies:
 
 philosophy: "Beautiful code should tell a story"
 favorite_quote: "The best way to predict the future is to create it"
-```
 
 </div>
 
