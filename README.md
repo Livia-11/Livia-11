@@ -16,6 +16,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320">
 
+```javascript
 const liviaKirezi = {
   name: "Livia Kirezi",
   role: "Software Engineer & Frontend Developer",
@@ -32,6 +33,7 @@ const liviaKirezi = {
   passion: "Creating Beautiful & Functional UIs",
   motto: "Code with purpose, design with passion ✨"
 };
+```
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -78,13 +80,13 @@ const liviaKirezi = {
 ## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99cc33e7bdca.gif" width="25"> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liviakirezi&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="49%" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=liviakirezi&show_icons=true&theme=tokyonight&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=79C0FF&bg_color=0D1117" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Livia-11&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Livia-11&show_icons=true&theme=tokyonight&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=79C0FF&bg_color=0D1117" width="49%" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviakirezi&theme=tokyonight&hide_border=true&layout=compact&title_color=58A6FF&text_color=79C0FF&bg_color=0D1117" width="55%" alt="Top Languages"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liviakirezi&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Livia-11&theme=tokyonight&hide_border=true&layout=compact&title_color=58A6FF&text_color=79C0FF&bg_color=0D1117" width="55%" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Livia-11&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 <div align="center">
@@ -106,17 +108,18 @@ const liviaKirezi = {
 <a href="mailto:livia.kirezi@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
 </a>
-<a href="https://github.com/liviakirezi" target="_blank">
+<a href="https://github.com/Livia-11" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
 </a>
 
 <br><br>
 
 ### 💭 Current Learning Journey
-
+```
 📚 Exploring: Blockchain Development & Web3
 🎯 Goal: Building decentralized applications
 🚀 Always open to innovative collaborations!
+```
 
 </div>
 
@@ -128,7 +131,7 @@ const liviaKirezi = {
 
 <div align="center">
 
-
+```yaml
 hobbies:
   - "🎨 UI/UX Design & Prototyping"
   - "🔐 Cybersecurity & Ethical Hacking"  
@@ -138,6 +141,7 @@ hobbies:
 
 philosophy: "Beautiful code should tell a story"
 favorite_quote: "The best way to predict the future is to create it"
+```
 
 </div>
 
@@ -150,5 +154,5 @@ favorite_quote: "The best way to predict the future is to create it"
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=liviakirezi&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Livia-11&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile Views"/>
 </div>
